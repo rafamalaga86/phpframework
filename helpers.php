@@ -8,4 +8,5 @@ function view($template, $vars = []){
 function controller($controller){
 	if (empty($controller)){
 		require "controllers/$home.php";
+	}
 }

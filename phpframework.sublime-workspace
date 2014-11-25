@@ -31,17 +31,9 @@
 			"file": "helpers.php",
 			"settings":
 			{
-				"buffer_size": 193,
+				"buffer_size": 197,
 				"line_ending": "Unix",
 				"name": "helpers.php"
-			}
-		},
-		{
-			"file": "/home/rafael/htdocs/mejorandogit-master/index.html",
-			"settings":
-			{
-				"buffer_size": 2471,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -84,7 +76,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 139.0,
 		"history":
 		[
 		]
@@ -106,6 +98,7 @@
 	],
 	"file_history":
 	[
+		"/home/rafael/htdocs/mejorandogit-master/index.html",
 		"/home/rafael/htdocs/phpframework/config.php",
 		"/home/rafael/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/rafael/htdocs/phpframework/views/contact.php",
@@ -217,7 +210,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -246,7 +239,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -274,7 +267,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -283,51 +276,21 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 193,
+						"buffer_size": 197,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								191,
-								191
+								197,
+								197
 							]
 						],
 						"settings":
 						{
 							"auto_name": "helpers.php",
 							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/rafael/htdocs/mejorandogit-master/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2471,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								119,
-								119
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -411,7 +374,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 248.0,
 	"status_bar_visible": true,
 	"template_settings":
