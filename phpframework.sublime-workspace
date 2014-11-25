@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"switch	switch …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/contact.php",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "helpers.php",
+			"settings":
+			{
+				"buffer_size": 193,
+				"line_ending": "Unix",
+				"name": "helpers.php"
+			}
+		},
+		{
+			"file": "/home/rafael/htdocs/mejorandogit-master/index.html",
+			"settings":
+			{
+				"buffer_size": 2471,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"installa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 719.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rafael/htdocs/phpframework",
+		"/home/rafael/htdocs/phpframework/controllers",
+		"/home/rafael/htdocs/phpframework/views"
+	],
+	"file_history":
+	[
+		"/home/rafael/htdocs/phpframework/config.php",
+		"/home/rafael/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/rafael/htdocs/phpframework/views/contact.php",
+		"/home/rafael/htdocs/phpframework/views/home.php",
+		"/home/rafael/htdocs/phpframework/controllers/home.php",
+		"/home/rafael/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/rafael/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/rafael/htdocs/phpframework/view.php",
+		"/home/rafael/htdocs/phpframework/index.php",
+		"/home/rafael/Documents/Clase 1 de marketing",
+		"/home/rafael/htdocs/phpframework/peter.css",
+		"/home/rafael/htdocs/phpframework/peter.js",
+		"/home/rafael/htdocs/phpframework/peter.json",
+		"/home/rafael/.config/sublime-text-3/Packages/Phpcs/phpcs.sublime-settings",
+		"/home/rafael/.config/sublime-text-3/Packages/Phpcs/Default (Linux).sublime-keymap",
+		"/home/rafael/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/tmp/fz3temp-1/send.php",
+		"/tmp/fz3temp-1/newsletter.php",
+		"/home/rafael/Documents/paqutetitos.txt",
+		"/home/rafael/Documents/- Organización: Planificacion antes de empezar",
+		"/home/rafael/htdocs/cc/index.php",
+		"/tmp/fz3temp-1/index.html",
+		"/home/rafael/Downloads/index.php",
+		"/media/rafael/1024/Mejorandola Cursos/Servers y Devops/Clase 1/notas.txt",
+		"/tmp/fz3temp-1/skel.css",
+		"/tmp/fz3temp-1/style.css",
+		"/tmp/fz3temp-1/style-wide.css",
+		"/tmp/fz3temp-1/init.js",
+		"/tmp/fz3temp-1/flaticon.css",
+		"/tmp/fz3temp-1/flaticon.html",
+		"/tmp/fz3temp-1/flaticon 2.css",
+		"/tmp/fz3temp-1/font-awesome.min.css",
+		"/home/rafael/htdocs/snazzy/css/font-awesome.min.css",
+		"/home/rafael/htdocs/snazzy/css/style.css",
+		"/home/rafael/htdocs/snazzy/index.html",
+		"/home/rafael/htdocs/snazzy/send.php",
+		"/home/rafael/Downloads/send.php",
+		"/home/rafael/Downloads/send (1).php",
+		"/home/rafael/htdocs/snazzy/sass/style.scss",
+		"/etc/hosts",
+		"/etc/apache2/sites-available/example.com.conf",
+		"/etc/apache2/sites-enabled/000-default.conf",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/etc/apache2/apache2.conf",
+		"/etc/apache2/sites-available/default-ssl.conf",
+		"/etc/apache2/sites-available/example.com",
+		"/etc/apache2/sites-available/example.conf"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/rafael/htdocs/snazzy"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"email",
+			"sna",
+			"a {",
+			"container",
+			":HOVER",
+			"a {",
+			"a.",
+			".icon",
+			"glyph-icon flaticon-",
+			"awesome",
+			"awesom",
+			"fa-",
+			".flaticon",
+			"@font-face{font-family:'FontAwesome",
+			"submi",
+			"width: 100%",
+			"submi",
+			"input",
+			"class",
+			"header",
+			"footer",
+			"major",
+			"footer",
+			"form",
+			".css",
+			"ServerAdmin",
+			"phpframe"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"glyph-icon icon-",
+			".icon"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "helpers.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"auto_name": "helpers.php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/rafael/htdocs/mejorandogit-master/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "phpframework.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
