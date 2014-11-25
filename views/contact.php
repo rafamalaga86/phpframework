@@ -7,6 +7,8 @@
 </head>
 <body>
 	<h1>This is the contact page</h1>
-	<p></p>
+	<p>oh my PHP framework</p>
 </body>
 </html>
+
+<!-- ola k ase -->
