@@ -11,31 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "controllers/contact.php",
-			"settings":
-			{
-				"buffer_size": 111,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 271,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "helpers.php",
-			"settings":
-			{
-				"buffer_size": 197,
-				"line_ending": "Unix",
-				"name": "helpers.php"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -94,20 +69,32 @@
 	[
 		"/home/rafael/htdocs/phpframework",
 		"/home/rafael/htdocs/phpframework/controllers",
-		"/home/rafael/htdocs/phpframework/views"
+		"/home/rafael/htdocs/phpframework/library"
 	],
 	"file_history":
 	[
+		"/home/rafael/htdocs/phpframework/views/home.php",
+		"/etc/apache2/sites-available/phpframework.local.conf",
+		"/home/rafael/htdocs/phpframework/controllers/contactController.php",
+		"/home/rafael/htdocs/phpframework/views/contact.php",
+		"/home/rafael/htdocs/phpframework/.htaccess",
+		"/home/rafael/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/rafael/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/rafael/htdocs/phpframework/controllers/homeController.php",
+		"/home/rafael/htdocs/phpframework/helpers.php",
+		"/home/rafael/htdocs/phpframework/index.php",
+		"/home/rafael/htdocs/phpframework/library/Request.php",
+		"/home/rafael/htdocs/phpframework/controllers/contact.php",
+		"/home/rafael/htdocs/phpframework/logs.txt",
+		"/tmp/fz3temp-1/wp-config 3.php",
+		"/tmp/fz3temp-1/wp-config 2.php",
+		"/tmp/fz3temp-1/wp-config.php",
 		"/home/rafael/htdocs/mejorandogit-master/index.html",
 		"/home/rafael/htdocs/phpframework/config.php",
-		"/home/rafael/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/rafael/htdocs/phpframework/views/contact.php",
-		"/home/rafael/htdocs/phpframework/views/home.php",
 		"/home/rafael/htdocs/phpframework/controllers/home.php",
 		"/home/rafael/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 		"/home/rafael/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
 		"/home/rafael/htdocs/phpframework/view.php",
-		"/home/rafael/htdocs/phpframework/index.php",
 		"/home/rafael/Documents/Clase 1 de marketing",
 		"/home/rafael/htdocs/phpframework/peter.css",
 		"/home/rafael/htdocs/phpframework/peter.js",
@@ -149,7 +136,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -164,6 +151,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"enable",
+			"change",
+			"save",
 			"email",
 			"sna",
 			"a {",
@@ -201,7 +191,7 @@
 			"glyph-icon icon-",
 			".icon"
 		],
-		"reverse": true,
+		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -210,95 +200,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "controllers/contact.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 111,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								75,
-								75
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 271,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "helpers.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 197,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								197,
-								197
-							]
-						],
-						"settings":
-						{
-							"auto_name": "helpers.php",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

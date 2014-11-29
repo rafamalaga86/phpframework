@@ -3,15 +3,20 @@
 require 'config.php';
 require 'helpers.php';
 
+require 'library/Request.php';
+
 
 if (empty($_GET['url'])){
-	require 'controllers/home.php';
-
-} elseif ($_GET['url'] == 'contactos') {
-	require 'controllers/contactos.php';
-
+	$url = "";
+	echo "No hay nada!";
 } else {
-
-	header('HTTP/1.0 404 Not Found');
-	exit('Pagina no encontrada');
+	echo "Ha encontrado una URL";
+	$url = $_GET['url'];
 }
+
+$request = new Request($url);
+
+
+var_dump($request->getUrl());
+
+
