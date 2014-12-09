@@ -6,11 +6,6 @@
 	<meta name="robots" content="noindex, nofollow">
 </head>
 <body>
-	<h1>This is the contact page</h1>
-	<p>oh my PHP framework</p>
+	<?= $tpl_content; ?>
 </body>
 </html>
-
-<!-- ola k ase -->
-
-<!-- este es un segundo cometnario -->

@@ -1,10 +1,11 @@
 <?php
 
-require 'config.php';
-require 'helpers.php';
+ini_set('display_errors', true);
+error_reporting(E_ALL);
 
-require 'library/Request.php';
-require 'library/Inflector.php';
+foreach (glob("library/*.php") as $filename){
+    require $filename;
+}
 
 if (empty($_GET['url'])){
 	$url = "";
